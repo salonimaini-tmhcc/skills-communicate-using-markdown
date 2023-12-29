@@ -1,0 +1,6 @@
+## I am Saloni Maini, Sr QA Analyst at TMHCC :girl:
+### 👋 Hi, I’m @salonimaini-tmhcc
+###  👀 I’m interested in setting up best qa practices
+### 🌱 I’m currently learning about git and github
+### 💞️ I’m looking to collaborate on github
+### 📫 you can reach me @salonimaini-tmhcc
