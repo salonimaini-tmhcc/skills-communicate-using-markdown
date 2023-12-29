@@ -6,3 +6,7 @@
 ### 📫 you can reach me @salonimaini-tmhcc
 
 ![Image of Yaktocat](https://octodex.github.com/images/manufacturetocat.png)
+
+``` Javascript
+const myVar = 'Hello World'
+```
