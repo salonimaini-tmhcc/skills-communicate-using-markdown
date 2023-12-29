@@ -4,3 +4,5 @@
 ### 🌱 I’m currently learning about git and github
 ### 💞️ I’m looking to collaborate on github
 ### 📫 you can reach me @salonimaini-tmhcc
+
+![Image of Yaktocat](https://octodex.github.com/images/manufacturetocat.png)
